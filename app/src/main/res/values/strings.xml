@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Peer Syed Karamat Ali</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="open_drawer">Drawer Open</string>
+    <string name="close_drawer">Drawer Close</string>
+</resources>
